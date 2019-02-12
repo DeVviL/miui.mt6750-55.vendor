@@ -1,7 +1,7 @@
-# miui.mt6735-53-37.vendor
-Repository for porting MIUI from 6797 to 6753-35-37
+# miui.mt6750-55.vendor
+Repository for porting MIUI from 6797 to 6750-55
 #
-Based Android 6.0, kernel with 3.18.19, Aarch x64
+Based Android 6.0, kernel with 3.18.22, Aarch x64
 #
 All files are ready to adapt the firmware. It is enough to replace the kernel and you can run, well, then fix individual bugs.
 #
